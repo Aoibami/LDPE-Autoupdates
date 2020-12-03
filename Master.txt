@@ -7,3 +7,7 @@
 
 <Version: 1.02>
 <End of Version>
+
+<Version: 1.03>
+/UpdateTest/test3.txt https://raw.githubusercontent.com/Aoibami/LDPE-Autoupdates/main/test3.txt
+<End of Version>
