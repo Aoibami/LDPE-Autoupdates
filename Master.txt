@@ -1,16 +1,2 @@
 <Version: 1.00>
 <End of Version>
-
-<Version: 1.01>
-/UpdateTest/test2.txt https://raw.githubusercontent.com/Aoibami/LDPE-Autoupdates/main/test2.txt
-<End of Version>
-
-<Version: 1.02>
-<End of Version>
-
-<Version: 1.03>
-/UpdateTest/test3.txt https://raw.githubusercontent.com/Aoibami/LDPE-Autoupdates/main/test3.txt
-<End of Version>
-
-<Version: 1.04>
-<End of Version>
