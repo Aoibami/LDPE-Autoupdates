@@ -1,9 +1,6 @@
-<Version 1.00>
+<Version: 1.00>
 <End of Version>
 
-<Version 1.01>
+<Version: 1.01>
 /UpdateTest/test2.txt https://raw.githubusercontent.com/Aoibami/LDPE-Autoupdates/main/test2.txt
-<End of Version>
-
-<Version: 1.02>
 <End of Version>
